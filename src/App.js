@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Leur infra n'est pas bonne
         </a>
       </header>
     </div>
